@@ -112,7 +112,6 @@ header {
     border-top: 1px solid #eee;
 }
 
-/* Estilo para o item ativo */
 .menu-item.active {
     background-color: #f8f9fa;
     border-left: 3px solid #8d2c1c;
